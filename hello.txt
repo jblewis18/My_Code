@@ -1,2 +1,4 @@
 Hello! This is a github repository!
 Awesome!
+
+Computer Science is so Cool! B-)
